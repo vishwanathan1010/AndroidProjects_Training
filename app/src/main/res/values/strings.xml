@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Digi Wallet</string>
+
+    <!--Login screen string values-->
+    <string name="login_phone_number">Phone Number</string>
+    <string name="login_password">Password</string>
+    <string name="forgot_password_link_text">Forgot Password?</string>
+    <string name="openwallet_button_text">Open Wallet</string>
+    <string name="createwallet_buton_text">Create Wallet</string>
+    <string name="copyright_text">Copyright \u00A9 2019, Atmecs Technologies</string>
+    <string name="login_phonenumber_validation_message">Enter a valid 10 digit Phone number</string>
+    <string name="login_password_validation_message">Invalid Password</string>
+
+    <!--Create wallet screen string values-->
+    <string name="create_wallet_title">Create Wallet</string>
+    <string name="create_wallet_label">Create a wallet to continue</string>
+    <string name="firstname_hint_text">First Name</string>
+    <string name="secondname_hint_text">Last Name</string>
+    <string name="email_hint_text">Email Address</string>
+    <string name="password_hint_text">Password</string>
+    <string name="confirm_password_hint_text">Confirm Password</string>
+    <string name="agreement_checkbox_text">By checking, I agree to the Terms and Conditions and Privacy Policy of the Digi Wallet</string>
+    <string name="create_button_text">Create</string>
+    <string name="firstname_validation_message">Enter your valid first name</string>
+    <string name="lastname_validation_message">Enter your valid Last name</string>
+    <string name="registration_email_validation_message">Enter a valid Email Id</string>
+    <string name="phonenumber_validation_message">Enter a valid 10 digit Phone number</string>
+    <string name="password_validation_message">Enter a valid Password</string>
+    <string name="confirm_password_validation_message">Please confirm your valid password</string>
+    <string name="confirm_password_mismatch_message">Password mismatch</string>
+    <string name="password_suggestion_text">Note: Password should be greater than 6 characters, must contain at least one uppercase character, a special character and one numeric character.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="alert_dialog_registration_title">Registration</string>
+    <string name="alert_dialog_registration_message">Your wallet is successfully created. Please login to activate.</string>
+    <string name="alert_dialog_registration_login_button">Ok</string>
+
+
+    <!--Forgot password screen string values-->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_first_text">Enter the phone number associated with your account.</string>
+    <string name="forgot_password_second_text">We will send email to your registered email address with account</string>
+    <string name="forgot_password_email_hint_text">Email Address</string>
+    <string name="forgot_password_send_button">Send</string>
+    <string name="forgot_password__email_validation_message">Enter your registered valid email id</string>
+
+    <!--Navigation drawer screen string values-->
+    <string name="navigation_mycards_title">My Cards</string>
+    <string name="navigation_myphotos_title">My Photos</string>
+    <string name="navigation_mykeys_title">My Keys</string>
+    <string name="navigation_about_us_title">About Us</string>
+    <string name="navigation_help_title">Help</string>
+    <string name="navigation_settings_title">Settings</string>
+    <string name="navigation_logout_title">Logout</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--Home fragment string values-->
+    <string name="home_activity_title">My Money</string>
+    <string name="wallet_balance_text">Wallet Balance</string>
+    <string name="wallet_amount_text">\u20B9 35.63</string>
+    <string name="add_money_button_text">Add Money</string>
+    <string name="send_money_text">Send Money</string>
+    <string name="send_money_button_text">Send</string>
+
+
+    <!--Alert dialog string values-->
+    <string name="positive_button_text">Yes</string>
+    <string name="negative_button_text">No</string>
+    <string name="alert_dialog_title_logout_text">Do you want to logout?</string>
+    <string name="alert_dialog_title_exit_text">Do you want to exit?</string>
+
+    <!--Toast message string values-->
+    <string name="toast_profile_photo_click">Profile photo clicked</string>
+    <string name="toast_privacy_policy_click">Privacy Policy is clicked</string>
+
+    <!--Shared preferences string values-->
+    <string name="login_preferences">com.atmecs.digiwallet_login_preference</string>
+    <string name="login_status_preferences">com.atmecs.digiwallet_login_status_preference</string>
+
+    <!--Check alert dialog string values-->
+    <string name="ok_button">OK</string>
+    <string name="incorrect_password_title">Incorrect Password</string>
+    <string name="registered_phonenumber_title">Enter registered phone number</string>
+    <string name="user_not_found">User not found</string>
+
+    <!--ProgressBar string values-->
+    <string name="progress_bar_open_wallet">Opening wallet</string>
+    <string name="progress_bar_sending_password">Sending Password</string>
+</resources>
